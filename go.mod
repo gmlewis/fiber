@@ -1,6 +1,6 @@
 module github.com/gofiber/fiber/v2
 
-go 1.19
+go 1.24
 
 require (
 	github.com/mattn/go-colorable v0.1.13
@@ -12,7 +12,7 @@ require (
 
 require (
 	github.com/andybalholm/brotli v1.0.4 // indirect
-	github.com/klauspost/compress v1.15.9 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
